@@ -1,0 +1,11 @@
+#conteudo {
+    display: inline-block;
+}
+#table {
+  background-color: aquamarine;
+    width: 1000px;
+}
+#form {
+    background-color: blanchedalmond;
+    width: 400px;
+}
